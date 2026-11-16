@@ -20,6 +20,13 @@ python autodash.py my_data.xlsx --title "Ops review"
 ```
 Your browser opens with the dashboard. The HTML file is saved next to the data file as shipments_dashboard.html.
 
+## Preview
+
+<img width="1570" height="892" alt="Dash Board -1" src="https://github.com/user-attachments/assets/b4fce11a-da4b-4455-8cad-a6db9f2d0e83" />
+<img width="1623" height="790" alt="Dash Board -2" src="https://github.com/user-attachments/assets/624a0afa-daee-47c2-b4e5-bd5da1747bf4" />
+<img width="1601" height="564" alt="Dash Board -3" src="https://github.com/user-attachments/assets/c5f0c15d-abed-4925-8738-0e085c511545" />
+
+
 ## Privacy options
 | Mode | What leaves your computer |
 |---|---|
