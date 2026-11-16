@@ -1,0 +1,4 @@
+.env
+*_dashboard.html
+*.ai_request.json
+__pycache__/
